@@ -23,6 +23,10 @@ PRODUCT_PACKAGES += \
     FontQuicksandOverlay \
     FontSwitzerOverlay
 
+# Black theme
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
+
 # Icon packs
 PRODUCT_PACKAGES += \
     IconPackCircularAndroidOverlay \
